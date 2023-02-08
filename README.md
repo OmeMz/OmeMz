@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OmeMz
 - 👀 I’m interested in creating: softwares, developing games, and websites
-- 🌱 I’m currently learning: Java, and CS50 📫 
+- 🌱 I’m currently learning: Java, and lua 📫 
 - How to reach me: instagram, which is @anotherhumanbeinginthisworld (If you're not sure which profile it is because it is showing you alot, it is the one with the Jewish cat as a profile picture)
